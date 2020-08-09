@@ -2,7 +2,7 @@
 
 ### I am currently a Computer Science student (Y2) studying in NUS
 - 🤔 I'm currently developing my own Web App [link]
-- ⚡ I'm interested in Graphics & Game / Software Development skills
+- ⚡ I'm interested in Graphic & Game / Software Development skills
 
 ### Languages & Tools used:
 Java, React Native, JavaScript, Firebase, Flutter
