@@ -1,6 +1,6 @@
 ## Hi, I am Jun Jie 👋
 
-### I am currently a Computer Science student (Y2) studying in NUS
+### I am currently a Computer Science student (Y3) studying in NUS
 - 🤔 I'm currently developing my own Web App [link]
 - ⚡ I'm interested in Graphic & Game / Software Development skills
 
