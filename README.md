@@ -1,11 +1,17 @@
 ## Hi, I am Jun Jie 👋
 
-### I am currently a Computer Science student (Y3) studying in NUS
+### I am currently a Computer Science student (Y4) studying in NUS
 - 🤔 I'm currently developing my own Web App [link]
-- ⚡ I'm interested in Graphic & Game / Software Development skills
+- ⚡ I'm interested in Software Development, AI, Computer Graphics skills
 
-### Languages & Tools used:
-Java, React Native, JavaScript, Firebase, Flutter
+### Languages:
+Python, Java, C++, JavaScript
+
+### Tools & Frameworks:
+React, Flutter, Firebase
+
+### Contacts:
+linkedin.com/in/ljunjie98
 
 <!--
 **Asuraxsoul/Asuraxsoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
