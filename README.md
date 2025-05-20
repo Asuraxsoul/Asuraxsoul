@@ -1,14 +1,14 @@
 ## Hi, I am Jun Jie 👋
 
-### I am currently a Computer Science student (Y4) studying in NUS
+### I am a Computer Science student from NUS
 - 🤔 I'm currently developing my own Web App [link]
 - ⚡ I'm interested in Software Development, AI, Computer Graphics skills
 
 ### Languages:
-Python, Java, C++, JavaScript
+C#, Python, Java, C++, JavaScript
 
 ### Tools & Frameworks:
-React, Flutter, Firebase
+Angular, React, Flutter, Firebase
 
 ### Contacts:
 linkedin.com/in/ljunjie98
